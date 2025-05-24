@@ -1,0 +1,20 @@
+body {
+    background-color: greenyellow;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+form {
+    background: #cde0e8;
+    padding: 20px;
+    width: 60%;
+    margin: auto;
+    border: 1px solid #aaa;
+}
+
+input[type="submit"] {
+    background: green;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+}
